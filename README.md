@@ -12,15 +12,15 @@
 - `https://www.spamhaus.org/drop/edrop.txt`  
 
 
-## Host Domain Blocklists 
+## Top Host Blocklists 
 ### [StevenBlack Hosts](https://github.com/StevenBlack/hosts)  
 - `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
 
-## Misc Blocklists
+## Misc Host Blocklists
 ### TikTok Block (prevent access to tiktok entirely)
 - `https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block`
 
-## Custom Blocklists
+## Custom Host Blocklists
 ### Australian Betting and Gambling Hosts
 - `https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts.txt`
 
