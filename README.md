@@ -1,6 +1,6 @@
 # Existing and custom blocklists for Firewalls / Pi-hole / pfBlockerNG    
 
-## IP address blocklists
+## IP Address Blocklists
 - `https://isc.sans.edu/block.txt`  
 - `https://cinsarmy.com/list/ci-badguys.txt`
 - `https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt`  
@@ -12,14 +12,14 @@
 - `https://www.spamhaus.org/drop/edrop.txt`  
 
 
-## Host Domain blocklists 
+## Host Domain Blocklists 
 ### [StevenBlack Hosts](https://github.com/StevenBlack/hosts)  
 - `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
 
 ### TikTok complete blocklist
 - `https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block`
 
-## Custom host blocklists including Australian sites
+## Misc Custom Blocklists
 ### Australian Betting and Gambling Hosts
 - `https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts`
 
