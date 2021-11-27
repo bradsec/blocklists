@@ -14,5 +14,5 @@ TikTok complete blocklist
 
 ## Custom lists including Australian sites
 ### Australian Betting and Gambling Hosts
-- https://raw.githubusercontent.com/bradsec/hosts/main/gamblingau/hosts
+- https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts
 
