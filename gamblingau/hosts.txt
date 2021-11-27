@@ -1,8 +1,8 @@
 ###################################################################
-# Name: gambleingau.txt                                                                                           
+# Name: gambleingau/hosts.txt                                                                                        
 # Description: Host list Australian Betting and Gambling 
 # Revised: 27 November 2021               
-# Source: github.com/bradsec/hosts                                                                                                                                                                                                                          
+# Source: github.com/bradsec/blocklists                                                                                                                                                                                                                          
 ###################################################################
 
 0.0.0.0 sportsbet.com.au
