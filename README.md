@@ -1,4 +1,4 @@
-# Existing and custom blocklists for Firewalls / Pi-hole / pfBlockerNG    
+# Blocklists for Firewalls / Pi-hole / pfBlockerNG    
 
 ## IP Address Blocklists
 - `https://isc.sans.edu/block.txt`  
