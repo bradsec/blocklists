@@ -16,10 +16,11 @@
 ### [StevenBlack Hosts](https://github.com/StevenBlack/hosts)  
 - `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
 
-### TikTok complete blocklist
+## Misc Blocklists
+### TikTok Block (prevent access to tiktok entirely)
 - `https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block`
 
-## Misc Custom Blocklists
+## Custom Blocklists
 ### Australian Betting and Gambling Hosts
 - `https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts`
 
