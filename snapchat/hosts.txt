@@ -1,6 +1,6 @@
 ###################################################################
 # Name: snapchat/hosts.txt                                                                                        
-# Description: Host list Australian Betting and Gambling 
+# Description: Snapchat app hosts
 # Revised: 27 November 2021
 # Source: github.com/bradsec/blocklists
 ###################################################################
