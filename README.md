@@ -1,6 +1,6 @@
 # Existing and custom blocklists for Firewalls / Pi-hole / Pfblocker  
 
-## Suspicious/Bad IP addresses and range blocklists
+## Suspicious/Bad IP address blocklists
 - `https://isc.sans.edu/block.txt`  
 - `https://cinsarmy.com/list/ci-badguys.txt`
 - `https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt`  
