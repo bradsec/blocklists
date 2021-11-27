@@ -22,5 +22,5 @@
 
 ## Custom Blocklists
 ### Australian Betting and Gambling Hosts
-- `https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts`
+- `https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts.txt`
 
