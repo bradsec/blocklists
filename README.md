@@ -1,9 +1,12 @@
 # Existing and custom host lists for blacklists blocklists
 
 ## Top source of host lists 
-https://github.com/StevenBlack/hosts
+### [StevenBlack Hosts](https://github.com/StevenBlack/hosts)  
+- https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
-`https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
+### Other
+TikTok complete blocklist
+- https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
 
 ## Custom lists including Australian sites
 
