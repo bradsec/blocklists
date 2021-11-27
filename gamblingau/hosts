@@ -1,10 +1,9 @@
 ###################################################################
 # Name	        :   gambleingau.txt                                                                                           
-# Description	:   Host list Australian Betting and Gambling 
-# Revised       :   27 November 2021                                                                                                                                                                                                                                          
+# Description	  :   Host list Australian Betting and Gambling 
+# Revised       :   27 November 2021               
+# Source        :   github.com/bradsec/hosts                                                                                                                                                                                                                          
 ###################################################################
-
-# Horse racing and sports betting
 
 0.0.0.0 sportsbet.com.au
 0.0.0.0 ladbrokes.com.au
@@ -38,6 +37,33 @@
 0.0.0.0 justhorseracing.com.au
 0.0.0.0 topsport.com.au
 0.0.0.0 racenet.com.au
+0.0.0.0 picklebet.com
+0.0.0.0 picklebet.com.au
+0.0.0.0 bettingsite.com.au
+0.0.0.0 rivalbet.com.au
+0.0.0.0 betstar.com.au
+0.0.0.0 bookmaker.com.au
+0.0.0.0 draftstars.com.au
+0.0.0.0 booki.com.au
+0.0.0.0 buddybet.com
+0.0.0.0 buddybet.com.au
+0.0.0.0 draftkings.com
+0.0.0.0 draftkings.com.au
+0.0.0.0 elitebet.com.au
+0.0.0.0 goldbet.com.au
+0.0.0.0 lottoland.com.au
+0.0.0.0 moneyball.com.au
+0.0.0.0 puntondogs.com.au
+0.0.0.0 sportchamps.com.au
+0.0.0.0 swopstakes.com
+0.0.0.0 swopstakes.com.au
+0.0.0.0 ubet.com.au
+0.0.0.0 punters.com.au
+0.0.0.0 tabtouch.com.au
+0.0.0.0 bookies.com.au
+
+# www prefix
+
 0.0.0.0 www.sportsbet.com.au
 0.0.0.0 www.ladbrokes.com.au
 0.0.0.0 www.dabble.com.au
@@ -70,3 +96,33 @@
 0.0.0.0 www.justhorseracing.com.au
 0.0.0.0 www.topsport.com.au
 0.0.0.0 www.racenet.com.au
+0.0.0.0 www.picklebet.com
+0.0.0.0 www.picklebet.com.au
+0.0.0.0 www.bettingsite.com.au
+0.0.0.0 www.rivalbet.com.au
+0.0.0.0 www.betstar.com.au
+0.0.0.0 www.bookmaker.com.au
+0.0.0.0 www.draftstars.com.au
+0.0.0.0 www.booki.com.au
+0.0.0.0 www.buddybet.com
+0.0.0.0 www.buddybet.com.au
+0.0.0.0 www.draftkings.com
+0.0.0.0 www.draftkings.com.au
+0.0.0.0 www.elitebet.com.au
+0.0.0.0 www.goldbet.com.au
+0.0.0.0 www.lottoland.com.au
+0.0.0.0 www.moneyball.com.au
+0.0.0.0 www.puntondogs.com.au
+0.0.0.0 www.sportchamps.com.au
+0.0.0.0 www.swopstakes.com
+0.0.0.0 www.swopstakes.com.au
+0.0.0.0 www.ubet.com.au
+0.0.0.0 www.punters.com.au
+0.0.0.0 www.tabtouch.com.au
+0.0.0.0 www.bookies.com.au
+
+# Other prefixes
+
+0.0.0.0 signup.winnersbet.com.au
+0.0.0.0 au.draftkings.com
+0.0.0.0 tab.ubet.com.au
