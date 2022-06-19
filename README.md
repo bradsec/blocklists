@@ -16,13 +16,4 @@
 ### [StevenBlack Hosts](https://github.com/StevenBlack/hosts)  
 - `https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts`
 
-## Misc Host Blocklists
-### TikTok Block App not just Ads
-- `https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block`
-
-## Custom Host Blocklists
-### Australian Betting and Gambling Hosts
-- `https://raw.githubusercontent.com/bradsec/blocklists/main/gamblingau/hosts.txt`
-### Snapchat Block App not just Ads
-- `https://raw.githubusercontent.com/bradsec/blocklists/main/snapchat/hosts.txt`
 
