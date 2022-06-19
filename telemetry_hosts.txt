@@ -1,0 +1,99 @@
+###################################################################
+# Name: telemetry_hosts.txt                                                                                        
+# Description: Telemetry Blocklist
+# Revised: 19 June 2022
+# Source: github.com/bradsec/blocklists
+###################################################################
+
+#
+# APPLE
+#
+0.0.0.0 metrics.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+
+#
+# ALEXA
+#
+0.0.0.0 data.alexa.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
+
+#
+# HAUAWEI
+#
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+
+#
+# ROKU
+#
+0.0.0.0 logs.roku.com
+
+#
+# SAMSUNG
+#
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 insights.samsung.com
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 bigdata.ssp.samsung.com
+
+#
+# SONOS
+#
+0.0.0.0 msmetrics.ws.sonos.com
+0.0.0.0 msmetrics-test.ws.sonos.com
+
+#
+# MICROSOFT
+#
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com.akadns.net
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.windows.com
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 cache.datamart.windows.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 spynet2.microsoft.com
+0.0.0.0 spynetalt.microsoft.com
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 prod.nexusrules.live.com.akadns.net
+
+#
+# XIAOMI
+#
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.rus.miui.com
